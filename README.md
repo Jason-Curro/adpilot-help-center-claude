@@ -10,6 +10,10 @@ A documentation-based, bilingual (English/Italian) skill plugin for merchants us
 
 This plugin helps with onboarding, product scoring, simulations, AI campaign proposal creation, Meta Ads CSV optimization, plan requirements and general troubleshooting. It cannot access a Shopify store, Meta account, billing, helpdesk or private logs, and cannot publish ads or guarantee advertising outcomes.
 
+## License and brand
+
+The distributed help-center plugin package is made available under the MIT License (see `LICENSE`), subject to the publisher's rights to its included content. This does not license AdPilot's proprietary Shopify application code or grant trademark rights to the AdPilot name or logo.
+
 ## Test prompts
 
 - How do I install and start using AdPilot with Shopify?
