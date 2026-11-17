@@ -1,11 +1,11 @@
 {
   "name": "adpilot-help-center",
   "displayName": "AdPilot Help Center",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Bilingual, documentation-based help for merchants using the AdPilot Shopify app. Explains plans, simulations, AI campaign proposals, Meta Ads CSV optimization, and troubleshooting; no account access.",
   "author": {
-    "name": "AdPilot",
-    "url": "https://joinadpilot.com/"
+    "name": "Aleff",
+    "url": "https://github.com/aleff-github"
   },
   "homepage": "https://joinadpilot.com/",
   "keywords": [
@@ -20,5 +20,6 @@
   "documentationUrl": "https://github.com/Jason-Curro/adpilot-help-center",
   "supportUrl": "https://joinadpilot.com/faq/",
   "privacyPolicyUrl": "https://joinadpilot.com/privacy/",
-  "termsOfServiceUrl": "https://joinadpilot.com/terms/"
+  "termsOfServiceUrl": "https://joinadpilot.com/terms/",
+  "license": "MIT"
 }
